@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.tc.autoconfigure.WebAutoConfiguration
+
+org.springframework.boot.autoconfigure.AutoConfigurationImportListener=\
+  com.tc.listener.DefaultAutoConfigurationImportListener
